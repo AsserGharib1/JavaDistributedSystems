@@ -12,10 +12,6 @@ Two-phase distributed system built with core Java concurrency and networking (no
 - Extends the system into a **pub/sub notification service**: clients subscribe to topics and receive real-time broadcast events.
 - Dedicated publisher, subscriber, and server GUIs demonstrating concurrent event delivery.
 
-## Screenshot
-
-![Client-server GUIs](docs/client_server_gui.png)
-
 ## Stack
 
 Java, Swing, TCP sockets, object serialization, `ExecutorService` thread pools, `BlockingQueue`, Maven.
